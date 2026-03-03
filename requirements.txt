@@ -1,0 +1,9 @@
+# Bittensor SDK (includes btcli)
+bittensor>=10.0.0
+
+# Optional: PyTorch support for ML workloads
+# Uncomment if you need torch:
+# bittensor[torch]
+
+# Optional: bittensor-cli if not satisfied by bittensor package
+# bittensor-cli
